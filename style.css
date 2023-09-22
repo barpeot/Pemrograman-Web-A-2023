@@ -1,0 +1,41 @@
+body{
+    background-color: aliceblue;
+    font-family: monospace;
+}
+
+.bar{
+    color: white;
+    background-color: blueviolet;
+    font-size: 17px;
+    padding: 10px 5px 10px 5px;
+}
+
+.content{
+    padding: 0px 40px 40px 40px;
+    text-align: justify;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.content h2{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.introduction {
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    text-align: justify;
+}
+
+.introduction img{
+    width: 16%;
+    height: auto;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}    
+
+
